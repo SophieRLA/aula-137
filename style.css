@@ -1,0 +1,32 @@
+body {
+    background-size:cover;
+}
+h1{
+    color:red;
+}
+button{
+    margin: 25px;
+    color:honeydew;
+    background-color:darkred;
+    width: 200px;
+    height: 40px;
+}
+h3{
+    background-color:red;
+}
+footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: brown;
+    line-height: 2;
+    text-align: center;
+
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+margin-top: 130px;
+box-shadow: 5px 5px 5px white;
+}
